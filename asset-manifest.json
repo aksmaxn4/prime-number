@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prime-number/static/css/main.f4970d7d.css",
+    "main.js": "/prime-number/static/js/main.3a9786e6.js",
+    "static/js/787.69c03c47.chunk.js": "/prime-number/static/js/787.69c03c47.chunk.js",
+    "index.html": "/prime-number/index.html",
+    "main.f4970d7d.css.map": "/prime-number/static/css/main.f4970d7d.css.map",
+    "main.3a9786e6.js.map": "/prime-number/static/js/main.3a9786e6.js.map",
+    "787.69c03c47.chunk.js.map": "/prime-number/static/js/787.69c03c47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4970d7d.css",
+    "static/js/main.3a9786e6.js"
+  ]
+}
